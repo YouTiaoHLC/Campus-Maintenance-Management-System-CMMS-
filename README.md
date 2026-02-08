@@ -2,7 +2,8 @@
 📊 Project Overview
 A comprehensive Java Swing-based desktop application for managing campus maintenance operations, including facility management, workforce scheduling, emergency planning, and academic course coordination.
 
-🚀 System Features
+# 🚀 System Features
+
 Core Modules
 Database Modification - CRUD operations for all entities
 
@@ -25,13 +26,15 @@ Worker Activities - Track staff tasks and assignments
 
 Course Schedule - Coordinate academic activities with maintenance
 
-🏗️ Architecture
+# 🏗️ Architecture
+
 Frontend: Java Swing GUI with modern card-based navigation
 
 Backend: MySQL database with JDBC connectivity
 
 
-🛠️ Technical Implementation
+# 🛠️ Technical Implementation
+
 Database Schema
 The system manages multiple interconnected entities:
 
@@ -60,7 +63,8 @@ JDBC - Database connectivity
 
 CardLayout - Dynamic UI navigation
 
-🎯 Key Features
+# 🎯 Key Features
+
 1. User-Friendly Interface
 Clean, modern GUI with consistent color scheme
 
@@ -89,7 +93,8 @@ Real-time results display in JTable
 Export capabilities for search results
 
 
-🚀 Getting Started
+# 🚀 Getting Started
+
 Prerequisites
 Java JDK 8 or higher
 
